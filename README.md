@@ -3,7 +3,7 @@ Script to use chatGPT on your own data
 
 # RetrievalGPT
 
-Document RetrievalGPT is an AI-based document retrieval system that utilizes the power of GPT (Generative Pre-trained Transformer) to find relevant documents for user queries. This project aims to simplify and enhance the process of retrieving documents from a large collection based on natural language queries.
+Document RetrievalGPT is an AI-based document retrieval system that utilizes the power of GPT (Generative Pre-trained Transformer) to find relevant infomation from documents for user queries. This project aims to simplify and enhance the process of retrieving documents from a large collection based on natural language queries.
 
 ## Features
 
@@ -35,7 +35,7 @@ Link to GPT model weights: [insert_link]
 
 ## Usage
 
-1. Start the retrieval system server:
+1. Start the retrieval of info from your terminal:
 
 ```bash
 python RetrievalGPT.py
