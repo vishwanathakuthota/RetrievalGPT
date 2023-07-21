@@ -60,6 +60,6 @@ Document RetrievalGPT is open-source software licensed under the MIT License. Se
 
 - [@vishwanathakuthota](https://github.com/vishwachintu/)
 
-If you have any questions or inquiries, please contact us at vish@drpinnacle.com.
+If you have any questions or inquiries, please contact at vish@drpinnacle.com.
 
 Happy Document Retrieval with RetrievalGPT!
