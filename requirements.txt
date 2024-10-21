@@ -1,0 +1,8 @@
+openai
+langchain
+langchain-community
+langchain-openai
+langchain-chroma
+pypdf
+unstructured[pdf]
+python-magic-bin
